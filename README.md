@@ -14,6 +14,8 @@ The connection url to the machine is configured in conf/nipytest.conf
 
 ### Installing
 
+This library does not build with python 3.8, use 3.6/3.7.
+
 Setup a venv (or use any other env), and install the requirements using
 ```
 pip3 install -r reuqirements.txt
